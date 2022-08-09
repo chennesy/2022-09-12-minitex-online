@@ -154,6 +154,9 @@ address.
   The instructors will provide you with the information you will need to connect to this meeting.
 </p>
 {% endif %}
+<p id="where">
+  <strong>Register:</strong> <a href="https://minitex.umn.edu/events/webinar/2022-09/library-carpentry-workshop-series">Register via Minitex</a>.
+</p>
 
 {% comment %}
 DATE
